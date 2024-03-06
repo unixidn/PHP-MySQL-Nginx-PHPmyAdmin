@@ -1,7 +1,7 @@
 # PHP MySQL Nginx PHPmyAdmin
 
 #### For Laravel:
-````
+
 Step 1 
 ````
 git clone https://github.com/laravel/laravel.git ./web 
