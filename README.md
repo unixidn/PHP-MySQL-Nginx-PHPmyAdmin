@@ -6,7 +6,9 @@ Step 1
 ````
 git clone https://github.com/laravel/laravel.git ./web
 ````
+````
 cp ./web/.env.example ./web/.env
+````
 ````
 Step 2
 ````
